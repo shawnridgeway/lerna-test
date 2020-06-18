@@ -4,6 +4,7 @@ This is a sandbox repo to test out how to structure a Lerna based monorepo. It i
 
 ## Structure
 
+```
 .
 ├── Makefile
 ├── lerna.json
@@ -40,4 +41,5 @@ This is a sandbox repo to test out how to structure a Lerna based monorepo. It i
         ├── src
         │   └── index.tsx
         └── tsconfig.json
+```
 
